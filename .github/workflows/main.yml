@@ -36,4 +36,3 @@ jobs:
           
           # sftp args
           args: '-o ConnectTimeout=5'
-          password: 'newuserelaine'
